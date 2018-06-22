@@ -11,6 +11,14 @@ folder structure and gain a better understanding of how these apps are built.
 
 ## Objectives
 
+
+
+
+
+
+
+
+
 - See an example of a basic React app
 - Make some changes to the app and see it update live
 
